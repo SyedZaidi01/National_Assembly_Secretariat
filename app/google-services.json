@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "558406574001",
+    "firebase_url": "https://nasgov-d95c5.firebaseio.com",
+    "project_id": "nasgov-d95c5",
+    "storage_bucket": "nasgov-d95c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558406574001:android:1a0ac2ebeb06a42b",
+        "android_client_info": {
+          "package_name": "com.nasapp.nas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558406574001-6nluislpvr1cmkb9q5g7h5c3jtqoq1dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADR5TkAwj4g2jSiNSYdhQeOeD_QLi6xxM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
